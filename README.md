@@ -3,8 +3,7 @@ Tarefa realizado para o curso de Desenvolvedor Android para Mobile SENAI
 
 // condicionando o cadastramento de participantes até 100
 //-----------------//
-
-let listaDeParticipantes = ["Helena", "Chico", "Mário", "José", "João"];
+"""let listaDeParticipantes = ["Helena", "Chico", "Mário", "José", "João"];
 let    quantidadeDeParticipantes =  listaDeParticipantes.length;
 if (quantidadeDeParticipantes < 100) {
     listaDeParticipantes.push("José");
