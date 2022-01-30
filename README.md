@@ -16,7 +16,7 @@ else {
 }
 ```
 
-### condicionando o cadastramento até 18 anos 
+### Condicionando o cadastramento até 18 anos 
 
 
 ```javaScript
